@@ -2,15 +2,15 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "Zaggonaut",
-  rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
+  username: "Synthara",
+  rootUrl: "https://synthara-dev.vercel.app",
+  shortDescription: "We don’t just build software—we engineer intelligent ecosystems.",
+  longDescription: "Synthara is at the forefront of technological evolution.",
   
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: "https://github.com/synthara-company",
+  twitterProfile: "https://x.com/Synthara343066",
+  linkedinProfile: "https://www.linkedin.com/company/synthara-engineering",
   
   // Common text names used throughout the site
   articlesName: "Articles",
@@ -32,7 +32,7 @@ export const GLOBAL = {
   projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "logo.png",
 
   // Menu items
   menu: {
